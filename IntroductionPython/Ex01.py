@@ -11,5 +11,10 @@ nome = str(input('Digite seu nome completo: '))
 print(nome.upper())
 print(nome.lower())
 print(len(nome))
+print(len(nome.replace(' ', '')))
 
 troca = nome.split()
+troca[-1] = 'do Inatel'
+
+novoNome = ' '.join(troca)
+print(novoNome)

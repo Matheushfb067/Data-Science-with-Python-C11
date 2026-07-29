@@ -4,7 +4,9 @@ intervalo específico também escolhido por ele
 '''
 
 num = float(input("Entre com um numero: "))
+inferior = int(input("Entre com o limite inferior: "))
+superior = int(input("Entre com o limite superior: "))
 
-for i in range (1, 11): 
-    mult = i * num
-    print('{} x {} = {}'.format(i, num, mult))
+
+for i in range (inferior, superior + 1): 
+    print(num, ' x ', i, ' = ', num * i)
