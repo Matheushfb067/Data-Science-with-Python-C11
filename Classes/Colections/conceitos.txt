@@ -1,0 +1,62 @@
+COLEÇÕES 
+
+Tópicos:
+
+1. Tuplas (Tuples)
+2. Listas (Lists)
+3. Conjuntos (Sets)
+4. Dicionários (Dictionaries)
+
+• Quando criamos uma variável, estamos pedindo para que o computador reserve um espaço 
+de memória para que ele possa guardar um valor lá dentro
+• Em uma variável comum, só é possível guardarmos um único valor
+• Porém, podemos também trabalhar com as chamadas variáveis compostas (ou Coleções), 
+que nos permitem armazenar uma série de valores ao mesmo tempo
+• A forma mais simples de Coleção no Python é a Tupla
+
+------------------------------------------------------------------------------------------------
+
+TUPLAS: 
+
+()
+
+-> guarda um conjunto de elementos
+-> é uma coleção imutavel
+-> São acessadas por meio dos indices
+-> permite slicing de seus elementos
+-> Objetivo: persistencia de dados, uma vez que não podem ser alterados
+
+
+Slicing de Dados: 
+
+Permite fatear os dados, visando trabalhar somente com o que for interessante para 
+a aplicação, na qual se está trabalhando
+
+------------------------------------------------------------------------------------------------
+
+LISTAS: 
+
+[]
+
+-> coleção MUTAVEL de dados
+-> Pode-se fazer tudo que não é possivel se fazer nas tuplas
+
+------------------------------------------------------------------------------------------------
+
+CONJUNTOS: 
+
+{}
+
+-> não guarda a posição dos dados, portanto, os dados podem aparecer em qualquer ordem
+-> não guarda elementos duplicados
+-> permite naturalmente realizar operações entre conjuntos de dados (intercessão, união
+diferença...)
+
+------------------------------------------------------------------------------------------------
+
+DICIONARIOS: 
+
+{}
+
+-> é um conjunto de chave : valor, porem a chave é um indice customizavel
+-> é totalmente mutavel 
