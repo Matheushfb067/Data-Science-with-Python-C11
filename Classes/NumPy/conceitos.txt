@@ -1,0 +1,20 @@
+NumPy:
+
+Biblioteca mãe do data science
+
+O NumPy (Numerical Python) é uma biblioteca open source em
+Python, largamente utilizada em quase todos os campos da
+ciência
+e engenharia
+
+
+• Manipulação de arrays multidimentsionais como vetores e matrizes
+• Grande variedade de operações matemáticas disponíveis • Preparada para lidar com grandes quantidades de dados
+(Sua baseé criada na linguagem C)
+• Biblioteca mãe de outras, como Pandas e MatplotLib
+
+O NumPy tem uma estrutura chamada de NdArray ou NumPy Array - que indica o uso de estruturas especificas de numpy
+
+Com o NumPy podemos aplicar tudo o que foi implementado em coleções, só que por meio de bibliotecas
+
+broadcasting - quando um ESCALAR faz uma operação com um ARRAY
