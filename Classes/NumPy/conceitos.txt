@@ -1,4 +1,4 @@
-NumPy:
+NumPy: aula 01
 
 Biblioteca mãe do data science
 
@@ -18,3 +18,17 @@ O NumPy tem uma estrutura chamada de NdArray ou NumPy Array - que indica o uso d
 Com o NumPy podemos aplicar tudo o que foi implementado em coleções, só que por meio de bibliotecas
 
 broadcasting - quando um ESCALAR faz uma operação com um ARRAY
+
+--------------------------------------------------------------------------------------------------------------------
+
+Podemos realizar o Slicing de NumPy Arrays unidimensionais da mesma forma que fizemos 
+com as Tuplas e Listas
+Utilizaremos o Slicing de NumPy Arrays bidimensionais com frequência
+
+Conceito mais importante do numpy: 
+Condicionais no NumPy
+
+-> Mata as estruturas de repetição da programação - dominando esse conceito raramente será necessrio for e while
+-> Tudo que é possivel se fazer dentro de um if e else, será possivel se fazer dentro de um numpy array
+
+--------------------------------------------------------------------------------------------------------------------
