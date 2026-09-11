@@ -1,0 +1,10 @@
+- Pandas
+    Estruturas de dados do pandas
+
+-> Series(1-D): são arrays de uma unica dimensão que é capaz de armazenar dados heterogeneos diferente do numpy array
+    É necessario passar uma lista de labels e uma lista de valores
+
+-> Dataframes(2D+): É o que permite armazenar dados heterogeneos
+    Pode ser visualizado como uma planilha do excel para acessar seus elementos
+
+-> LOC e ILOC: principal diferença é que o LOC utiliza as labels, enquanto o ILOC usa indices numericos
