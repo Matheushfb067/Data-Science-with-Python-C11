@@ -8,3 +8,9 @@
     Pode ser visualizado como uma planilha do excel para acessar seus elementos
 
 -> LOC e ILOC: principal diferença é que o LOC utiliza as labels, enquanto o ILOC usa indices numericos
+
+----------------------------------------------------------------------------------------------------------------------------
+
+-> Dados Categoricos: são dados que podem ser classificados em pequenos novos grupos de dados
+
+-> 
