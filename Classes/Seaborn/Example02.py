@@ -25,4 +25,3 @@ sns.histplot(
     kde = True, # traça linhas sobre os dados de cada um dos pinguins
 )
 plt.show()
-
