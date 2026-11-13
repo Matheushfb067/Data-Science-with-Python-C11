@@ -1,0 +1,33 @@
+Series temporais: medidas que variam de aconrdo com o tempo
+
+-> Séries temporais são dados coletados em intervalos de tempos regulares (como segundos,
+hora, dias, meses, etc.)
+
+-> Dependem da ordem dos dados
+
+-> intervalos precisam ser regulares
+
+Estudamos séries temporais quando queremos compreender como um fenômeno ocorre ao
+longo do tempo;
+
+Para ser considerado uma Série Temporal, deve-se seguir a seguinte regra:
+Medida-> Fato-> Unidade de Tempo
+
+Componentes de uma serie temporal: padrões
+1. Tendencia: REPRESENTA A DIREÇÃO DE LONGO PRAZO DOS DADOS
+Podem ser: 
+   crescente: valores aumentam com o tempo 
+   descrescente: valores diminuem com o tempo 
+   estacionaria: valores sem tendencia clara
+
+2. Sazonalidade: REPRESENTA VARIAÇÕES QUE OCORREM EM INTERVALOS REGULARES,
+GERALMENTE CAUSADAS POR FATORES SAZONAIS COMO ESTAÇÕES DO ANO, MESES OU DIAS.
+
+3. ciclo: REPRESENTA FLUTUAÇÕES DE LONGO PRAZO QUE NÃO SEGUE UM PADRÃO FIXO
+COMO A SAZONALIDADE. SÃO GERALMENTE ASSOCIADAS A EVENTOS EXTERNOS.
+
+   padrões que se repetem mas em contrapartida da Sazonalidade representa um 
+   periodo maior.
+   
+4. ruído: COMPONENTE IMPREVISÍVEL DE UMA SÉRIE. CAUSADO POR VARIAÇÕES ALEATÓRIAS 
+OU FATORES QUE NÃO PODEM SER EXPLICADOS.
